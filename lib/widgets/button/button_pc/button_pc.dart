@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:hackathonmap/constants/colors/app_colors.dart';
 
-class FindhackButton extends StatelessWidget {
+class ButtonPc extends StatelessWidget {
   final String title;
-  FindhackButton(this.title);
+  ButtonPc(this.title);
 
   @override
   Widget build(BuildContext context) {
@@ -14,7 +15,7 @@ class FindhackButton extends StatelessWidget {
             fontSize: 20, fontWeight: FontWeight.w800, color: Colors.white),
       ),
       decoration: BoxDecoration(
-        color: Colors.blue[400],
+        color: commonColor,
         borderRadius: BorderRadius.circular(8),
       ),
     );

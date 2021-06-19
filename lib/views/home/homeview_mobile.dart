@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:hackathonmap/widgets/hackathonmap_detals/hackathonmap_detals.dart';
-import 'package:hackathonmap/widgets/hackfind_button/hackfind_button.dart';
+import 'package:hackathonmap/widgets/button/hackfind_button.dart';
 
 class HomeviewMobile extends StatelessWidget {
   @override
