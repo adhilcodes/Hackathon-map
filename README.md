@@ -1,16 +1,17 @@
-# hackathonmap
+# Welcome to hack map(); 
 
-A new Flutter project.
+One stop destination to find Hackathons nearby you!
 
-## Getting Started
+# Setting up in your Local
 
-This project is a starting point for a Flutter application.
+1) Run `https://github.com/adhilcodes/Hackathon-map.git`
+2) Move into the root directory `cd Hackathon-map`
+3) Run `flutter pub get`
+4) Run `flutter run -d chrome`
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Desktop
+![](/.github/img/desktop.png)
+## Tablet
+![](/.github/img/tablet.png)
+## Mobile
+![](/.github/img/mobile.png)
